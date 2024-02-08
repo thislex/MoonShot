@@ -18,6 +18,7 @@
 		7FF193FE2B737BBC000A7A86 /* Mission.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FF193FD2B737BBC000A7A86 /* Mission.swift */; };
 		7FF194002B73ADD5000A7A86 /* ShapeStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FF193FF2B73ADD5000A7A86 /* ShapeStyle.swift */; };
 		7FF194022B73BD33000A7A86 /* MissionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FF194012B73BD33000A7A86 /* MissionView.swift */; };
+		7FF194042B74DD5F000A7A86 /* AstronautView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FF194032B74DD5F000A7A86 /* AstronautView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		7FF193FD2B737BBC000A7A86 /* Mission.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Mission.swift; path = MoonShot/View/Mission.swift; sourceTree = SOURCE_ROOT; };
 		7FF193FF2B73ADD5000A7A86 /* ShapeStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ShapeStyle.swift; path = MoonShot/View/ShapeStyle.swift; sourceTree = SOURCE_ROOT; };
 		7FF194012B73BD33000A7A86 /* MissionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionView.swift; sourceTree = "<group>"; };
+		7FF194032B74DD5F000A7A86 /* AstronautView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AstronautView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				7F2299D52B6EDED3000F8EFA /* ContentView.swift */,
+				7FF194032B74DD5F000A7A86 /* AstronautView.swift */,
 				7FF194012B73BD33000A7A86 /* MissionView.swift */,
 			);
 			path = View;
@@ -187,6 +190,7 @@
 			files = (
 				7FF194022B73BD33000A7A86 /* MissionView.swift in Sources */,
 				7FF193F92B737876000A7A86 /* astronaut.swift in Sources */,
+				7FF194042B74DD5F000A7A86 /* AstronautView.swift in Sources */,
 				7F2299D62B6EDED3000F8EFA /* ContentView.swift in Sources */,
 				7F2299D42B6EDED3000F8EFA /* MoonShotApp.swift in Sources */,
 				7FF193FE2B737BBC000A7A86 /* Mission.swift in Sources */,
